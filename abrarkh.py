@@ -422,19 +422,19 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mKali.Linux\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;93m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
+	print "  \033[1;93m«---•◈•---Developed By Muhammad-Ibrahim--•◈•---»" #M_ibrahim
 	print '\033[1;91m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 World.py)↩\033[1;92m....'
 	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint))
 	print """
              
-             ╔══╗░░░░╔╦╗░░╔═════╗    lovehacker
-             ║╚═╬════╬╣╠═╗║░▀░▀░║    BlackMafia
+             ╔══╗░░░░╔╦╗░░╔═════╗    MIbrahim
+             ║╚═╬════╬╣╠═╗║░▀░▀░║    Sweet_Davil
              ╠═╗║╔╗╔╗║║║╩╣║╚═══╝║    WhatsApp
-             ╚══╩╝╚╝╚╩╩╩═╝╚═════╝    03094161457
+             ╚══╩╝╚╝╚╩╩╩═╝╚═════╝    Sorry bro
              Checkpoint ID Open After 7 Days
 
 •\033[1;91m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;93m .....lovehacker  Kali.linux....... \033[1;91m :
+: \033[1;93m .....mibrahim  Kali.linux....... \033[1;91m :
 •\033[1;91m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
               \033[1;93m +923094161457"""
