@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To lovehacker
+#The Credit For This Code Goes To mibrahim
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.07)
 
-#Dev:love_hacker
+#Dev:m_ibrahim
 ##### LOGO #####
 logo = """
 \033[1;91m:•◈•╭━━╮╭╮╱╱╱╱╱╱╭╮╱╭━╮╭━╮╱╱╱╭━╮    :•◈•
@@ -108,8 +108,8 @@ jalan('\033[1;95m▬▬▬▬▬▬▬▬▬90%')
 jalan('\033[1;95m▬▬▬▬▬▬▬▬▬100%')
 print "\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mkalilinux\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
-CorrectUsername = "World"
-CorrectPassword = "lovehacker"
+CorrectUsername = "ibrahim"
+CorrectPassword = "ibrahim420"
 
 loop = 'true'
 while (loop == 'true'):
@@ -117,7 +117,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;91m🗝 \x1b[1;91mTool Password \x1b[1;91m»» \x1b[1;92m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:love_hacker
+            print "Logged in successfully as " + username #m:m_ibrahim
 	    time.sleep(2)
             loop = 'false'
         else:
@@ -212,7 +212,7 @@ def menu():
 	except requests.exceptions.ConnectionError:
 		print"\x1b[1;92mThere is no internet connection"
 		keluar()
-	os.system("clear") #Dev:love_hacker
+	os.system("clear") #m:M_ibrahim
 	print logo
 	print "  \033[1;92m«----•◈••◈•----\033[1;93mLogged in User Info\033[1;92m----•◈••◈•-----»"
 	print "	   \033[1;91m Name\033[1;93m:\033[1;92m"+nama+"\033[1;93m               "
@@ -311,7 +311,7 @@ def pilih_super():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:love_hacker
+			pass #m:M_ibrahim
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
